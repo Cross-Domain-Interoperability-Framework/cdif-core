@@ -13,14 +13,7 @@
         "Biogeochemistry"
     ],
     "datePublished": "2021-04-19",
-    "identifier": {
-        "@id": "https://doi.org/10.1575/1912/bco-dmo.3773.1",
-        "@type": "PropertyValue",
-        "name": "DOI: 10.1575/1912/bco-dmo.3773.1",
-        "propertyID": "https://registry.identifiers.org/registry/doi",
-        "value": "doi:10.1575/1912/bco-dmo.3773.1",
-        "url": "https://doi.org/10.1575/1912/bco-dmo.3773.1"
-    },
+    "identifier": "https://doi.org/10.1575/1912/bco-dmo.3773.1",
     "distribution": {
         "@type": "DataDownload",
         "contentUrl": "http://dmoserv3.bco-dmo.org/jg/serv/BCO-DMO/HOT/niskin_v2.html0",
