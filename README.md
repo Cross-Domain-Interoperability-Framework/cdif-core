@@ -6,9 +6,9 @@ Subdirectories in these top level directories host templates, examples, and guid
 
 - Examples are valid schema.org JSON-LD that document actual data.
 
-- Templates are typically JSON_LD docs with explanatory text for the content of the keys in the JSON doc. The templates are  serialised in [JSON-LD](https://www.w3.org/TR/json-ld11/) using the [schema.org](https://schema.org/) vocabulary. [JSON Schema](https://json-schema.org/specification) or [SHACL](https://www.w3.org/TR/shacl/)/[SHEX](https://github.com/shexSpec/shex/wiki/ShEx) rule sets might also be provided for validation. 
+- Templates are typically JSON_LD docs with explanatory text for the content of the keys in the JSON doc. The templates are  serialised in [JSON-LD](https://www.w3.org/TR/json-ld11/) using the [schema.org](https://schema.org/) vocabulary. 
 
-- Validation folder contains JSON schema, SHACL rule sets or similar docs that can be used to validate JSON-LD following recommendations.
+- Validation folder contains [JSON Schema](https://json-schema.org/specification), [SHACL](https://www.w3.org/TR/shacl/)/[SHEX](https://github.com/shexSpec/shex/wiki/ShEx) rule sets or other artifacts provided to validate JSON-LD following recommendations.
 
 Workflow:
 to contribute, you'll need to 
